@@ -1,3 +1,4 @@
+{
   "name": "content-farm-login",
   "scripts": {
     "start": "node server.js"
